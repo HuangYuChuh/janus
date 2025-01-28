@@ -9,7 +9,6 @@ joblib>=0.11
 rasterio>=1.0.8
 pycrs>=1.0.1
 shapely>=1.6.1
-nass>=0.1.1
 fiona>=1.7.13
 pyyaml>=3.12
 seaborn>=0.10
